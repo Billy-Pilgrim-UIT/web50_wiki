@@ -1,0 +1,3 @@
+#Scratch
+
+Scratch is a block-based visual programming language and website targeted primarily at children to help learn code. Users of the site can create online projects using a block-like interface. The service is developed by the MIT Media Lab, has been translated into 70+ languages, and is used in most parts of the world. Scratch is taught and used in after-school centers, schools, and colleges, as well as other public knowledge institutions. As of September 2020, community statistics on the language's official website show more than 59 million projects shared by over 58 million users, and almost 36 million monthly website visits.
